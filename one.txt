@@ -1,2 +1,0 @@
-# git-learnings
-# Updating feature F1 // Due to dependency with F2
