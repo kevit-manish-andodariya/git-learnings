@@ -1,2 +1,2 @@
 # git-learnings
-# Adding new feature F1
+# Updating feature F1
